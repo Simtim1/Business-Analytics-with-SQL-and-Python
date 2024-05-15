@@ -1,0 +1,1 @@
+Created presentation for Super Food Markets a hypothetical supermarket chain looking to grow its existing market share. Used Python to analyse customer transactions and product purchases to gain and present insights.
